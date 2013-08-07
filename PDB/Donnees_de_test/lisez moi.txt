@@ -1,0 +1,1 @@
+Avant d'exécuter les scripts, il faut tout d'abord les éditer et préciser le bonne emplacement des données de test.
