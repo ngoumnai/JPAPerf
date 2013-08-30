@@ -1,4 +1,0 @@
-http://www.siteduzero.com/informatique/tutoriels/creez-votre-application-web-avec-java-ee/mise-en-place-29
-
-http://www.mkyong.com/webservices/jax-rs/json-example-with-jersey-jackson/
-http://www.mkyong.com/tutorials/jax-rs-tutorials/
